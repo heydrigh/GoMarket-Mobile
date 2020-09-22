@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "PC Gamer",
+      "image_url": "https://static.carrefour.com.br/medias/sys_master/images/images/hfb/h89/h00/h00/14740911292446.jpg",
+      "price": 4000
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Cadeira Gamer",
+      "image_url": "https://novomundo.vteximg.com.br/arquivos/ids/1955755-500-500/cadeira-gamer-base-giratoria-com-braco-daytona-preta-59961-0.jpg?v=637098146589700000",
+      "price": 850
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Teclado e mouse gamer",
+      "image_url": "https://http2.mlstatic.com/kit-teclado-e-mouse-razer-cynosa-pro-bundle-D_NQ_NP_983794-MLB25795836571_072017-F.jpg",
+      "price": 600
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Monitor gamer",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61C4leNQkdL._AC_SX466_.jpg",
+      "price": 1200
     }
   ]
 }
